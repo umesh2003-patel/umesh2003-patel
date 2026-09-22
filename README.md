@@ -96,8 +96,35 @@ AI-Powered Applications
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 <table>
 <tr>
+
+<td width="50%">
+
+<h3>🛒 SmartCart – AI-Powered E-Commerce Management System</h3>
+
+<p>
+Full-stack e-commerce application designed for product, user, cart, order, and payment management.
+</p>
+
+<b>Tech Stack</b>
+
+<p>
+Python • Flask • MySQL • HTML • CSS • JavaScript • Bootstrap • Razorpay
+</p>
+
+<ul>
+<li>Developed product, user, cart, and order management functionality</li>
+<li>Implemented OTP-based email verification and bcrypt password hashing</li>
+<li>Integrated Razorpay payment gateway for secure online transactions</li>
+<li>Generated PDF invoices and automated email notifications</li>
+<li>Built responsive dashboards for product uploads, cart management, and order tracking</li>
+<li>Designed a relational MySQL database for users, products, orders, and transactions</li>
+</ul>
+
+</td>
 
 <td width="50%">
 
@@ -118,10 +145,14 @@ Python • Scikit-learn • PCA • Random Forest
 <li>Feature extraction</li>
 <li>PCA dimensionality reduction</li>
 <li>Random Forest classification</li>
-<li>93% model accuracy</li>
+<li>93% classification accuracy</li>
 </ul>
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%">
 
@@ -140,9 +171,14 @@ Python • OpenCV • Haar Cascade • KNN
 <ul>
 <li>Real-time face detection</li>
 <li>Haar Cascade classifier</li>
-<li>KNN pattern recognition</li>
+<li>KNN-based face recognition</li>
+<li>Automated attendance recording</li>
 <li>Web-based attendance interface</li>
 </ul>
+
+</td>
+
+<td width="50%">
 
 </td>
 
